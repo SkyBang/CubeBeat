@@ -5,4 +5,4 @@ Scopul este de a avea un scor cat mai mare.
 Good Luck!
 
 Instructiuni de instalare:
-Downloadezi in forma de zip,extragi din zip intr-un folder de pe calculatorul tau si apesi de doua ori pe programul numit "Kind of a rythm game.exe"
+Downloadezi in format zip,extragi din zip intr-un folder de pe calculatorul tau si apesi de doua ori pe programul numit "Kind of a rythm game.exe"
